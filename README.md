@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thng1642
 - I'm form Viet Nam
 - 👀 I’m interested in improvement yourself
-- 🌱 I’m currently learning Web developer (Spring Boot framework)
+- 🌱 I’m currently learning Full-Stack Web developer(MERN stack, Java Spring Boot)
 - 📫 How to reach me...By gmail: thng1642@gmail.com
 
 <!---
