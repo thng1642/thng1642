@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Thuan Nguyen
-- I'm from Viet Nam
-- 👀 I’m interested in improvement yourself
-- 🌱 I’m currently learning Full-Stack Web developer(MERN stack, Java Spring Boot). I'm working job Front-end with Angular
-- 📫 How to reach me...By gmail: thng1642@gmail.com
+👋 Hi, I’m @thng1642.
+🇻🇳 I’m from Vietnam.
+👀 I’m passionate about self-improvement and building real-world products.
+🌱 I’m currently learning Full-Stack Web Development (MERN stack & Java Spring Boot).
+⚒️ I'm working job Front-end Angular.
+💼 I’m looking for opportunities to collaborate on freelance or global projects to grow my skills and contribute value.
 
 <!---
 thng1642/thng1642 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
